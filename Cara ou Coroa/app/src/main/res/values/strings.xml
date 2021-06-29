@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cara ou coroa</string>
+    <string name="botao_jogar_novamente">Jogar</string>
+    <string name="botao_jogar">Começar</string>
+    <string name="zerar_contador">Zerar Contador</string>
+    <string name="cont_coroa">Coroa: 0</string>
+    <string name="cont_cara">Cara: 0</string>
+</resources>
